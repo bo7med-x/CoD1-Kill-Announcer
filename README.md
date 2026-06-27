@@ -26,7 +26,7 @@ Only one announcement fires per kill, in this order:
 1. Go to the **Releases** page of this repo and download both pk3 files:
    - `_srv_bo7medx_killannouncer_script.pk3`
    - `zzz_bo7medx_killannouncer_sounds.pk3`
-2. Put both pk3 files in your server's **`main`** folder (not `mods`).
+2. Put both pk3 files in your server's **`main`** folder.
 3. Open your server's **`modlist.gsc`** and add this line inside it:
 
    ```
