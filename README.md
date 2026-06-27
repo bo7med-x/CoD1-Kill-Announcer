@@ -6,6 +6,14 @@ On every kill it picks **one** announcement to show - First Blood, Headshot, Kil
 
 It's called "Kill Announcer" and not "Kill Streak" because killstreaks are only one of the things it can announce.
 
+## Download
+
+**[Click here to download](https://github.com/bo7med-x/CoD1-Kill-Announcer/releases/download/v3.6/bmx_killannouncer.zip)**
+
+The zip contains both pk3 files:
+- `_srv_bo7medx_killannouncer_script.pk3`
+- `zzz_bo7medx_killannouncer_sounds.pk3`
+
 ## Announcement priority
 
 Only one announcement fires per kill, in this order:
@@ -23,7 +31,7 @@ Only one announcement fires per kill, in this order:
 
 ## Installation
 
-1. Go to the **Releases** page of this repo and download both pk3 files:
+1. [Download the zip](https://github.com/bo7med-x/CoD1-Kill-Announcer/releases/download/v3.6/bmx_killannouncer.zip) and extract it - it contains both pk3 files:
    - `_srv_bo7medx_killannouncer_script.pk3`
    - `zzz_bo7medx_killannouncer_sounds.pk3`
 2. Put both pk3 files in your server's **`main`** folder.
